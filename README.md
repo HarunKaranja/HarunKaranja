@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harun Karanja
 - 👀 I’m interested in React, Flutter & WordPress Development
-- ✉️: harunkaranja852@gmail.com | harun@emeraldcodes.online
+- ✉️: harunkaranja852@gmail.com
 
 <!---
 HarunKaranja/HarunKaranja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
