@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harun Karanja
-- 👀 I’m interested in React, Flutter & WordPress Development
+- 👀 I’m interested in React Js, React Native, Flutter & WordPress Development
 - ✉️: harunkaranja852@gmail.com
 
 <!---
